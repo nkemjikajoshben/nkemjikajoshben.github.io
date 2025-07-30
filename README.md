@@ -56,7 +56,22 @@
   <section>
     <h2>Projects</h2>
     <div class="projects">
-      <div class="project">
+  <div class="project">
+    <h3>Health App</h3>
+    <p>A digital platform to promote health awareness and wellness using AI tools.</p>
+    <a href="#" target="_blank">Coming Soon</a>
+  </div>
+  <div class="project">
+    <h3>Spiritual Growth Hub</h3>
+    <p>An app designed to help individuals grow spiritually through daily devotionals and reflection tools.</p>
+    <a href="#" target="_blank">Coming Soon</a>
+  </div>
+  <div class="project">
+    <h3>Educational Resource App</h3>
+    <p>A learning platform offering access to free educational resources, courses, and tools.</p>
+    <a href="#" target="_blank">Coming Soon</a>
+  </div>
+</div>
         <h3>AI Health Chatbot</h3>
         <p>An AI chatbot designed to provide preliminary health advice and awareness.</p>
         <a href="#">View Project</a>
