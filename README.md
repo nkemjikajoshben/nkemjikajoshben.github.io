@@ -94,3 +94,8 @@
   </footer>
 </body>
 </html>
+<div class="project">
+  <h3>🩺 Health App</h3>
+  <p>A simple web app that displays health tips.</p>
+  <a href="https://nkemjikajoshben.github.io/health-app" target="_blank">View Project</a>
+</div>
